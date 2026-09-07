@@ -3,6 +3,8 @@
   "cleanUrls": true,
   "rewrites": [
     { "source": "/api/xapp-ff", "destination": "/api/xapp-ff" },
-    { "source": "/api/connection/v1/ff", "destination": "/api/connection/v1/ff" }
+    { "source": "/api/connection/v1/ff", "destination": "/api/connection/v1/ff" },
+    { "source": "/xapp-ff", "destination": "/api/xapp-ff" },
+    { "source": "/ff", "destination": "/api/connection/v1/ff" }
   ]
 }
