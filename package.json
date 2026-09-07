@@ -1,0 +1,12 @@
+{
+  "name": "vercelhanoman",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HanoMan FF auth API emulator for Vercel (xapp-ff + connection/v1/ff)",
+  "main": "api/xapp-ff.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {}
+}

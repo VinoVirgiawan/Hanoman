@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/api/xapp-ff", "destination": "/api/xapp-ff" },
+    { "source": "/api/connection/v1/ff", "destination": "/api/connection/v1/ff" }
+  ]
+}
