@@ -44,7 +44,7 @@ const memStore = { keys: {}, logs: [] };
 const HARDCODED_KEYS = {
   'FF_5C015B':        { days: 30,  title: 'HanoMan FF Monthly' },
   'FF_TRIAL':         { days: 1,   title: 'HanoMan FF Trial' },
-  'HANOMAN':          { days: 365, title: 'HanoMan FF Unlimited' },
+  'FF-KEPENTAL-CRACK':          { days: 365, title: 'HanoMan FF Unlimited' },
 };
 
 async function storeGet(k, fallback) {
